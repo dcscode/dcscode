@@ -1,4 +1,4 @@
-Hi, I’m Delaney Cifranik-Stovall (@dcscode). I’m a chemist trying to jump ship to programming. I’m currently learning HTML, CSS, JavaScript, and Python. I'm hoping to become a frontend web developer.
+Hi, I’m Delaney Cifranik-Stovall (@dcscode) and I'm a web developer.
 
 
 
